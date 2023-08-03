@@ -1,5 +1,5 @@
 # Merge docx
-This is a simple application to mers docx files to a single docx.
+This is a simple application to merges docx files to a single docx.
 It was requested by a collegue.
 
 It has also been a learning experience for me as I have never used tkinter before.
@@ -12,7 +12,7 @@ People who now swedish as all user facing strings are in swedish.
 Detta är en simpel applikation för att slå samman docx filer till en gemensam docx.
 Det var efterfrågat av en kolla till mig.
 
-Det har också var en läro process för mig då jag aldrig tidigare jobba med tkinter
+Det har också var en läroprocess för mig då jag aldrig tidigare jobba med tkinter
 Jag har också fått lära mig lite mer om python, då det inte är mitt bästa språk.
 
 ## Användning
@@ -67,9 +67,9 @@ Vanligen senast sparad först.
 
 [^1]:Du kan behöva ladda ned pip (python package manager), beror på hur python är installerat på datorn.
 
-### Intallera pip
+### Installera pip
 Pip behövs för att kunna installera några beroenden (externa bibliotek som behövs).
-Du kan readn ha pip installerar, dDetta steg är kanske inte nödvändigt
+Du kan redan ha pip installerat. Detta steg är kanske inte nödvändigt
 [länk för att kontrollera pip](https://packaging.python.org/en/latest/tutorials/installing-packages/)
 
 ### Kommando tolken (Power users)
@@ -92,7 +92,7 @@ exempel:
 för att komma till hemma mapp:
   cd ~
 
-för att komma till progmmet:
+för att komma till programmet:
   cd ~/Hämtade\ filer/mergeDocx/
 
 starta programmet och referera till docxmapp
@@ -105,4 +105,4 @@ Resultatet kan se ut så här:
 ![Terminal](/images/Screenshot6.png)
 
 ### Bug rapportering
-Om du hittar en bugg, raportera gärna på github.com/mumme74/mergeDocx
+Om du hittar en bugg, rapportera gärna på github.com/mumme74/mergeDocx
